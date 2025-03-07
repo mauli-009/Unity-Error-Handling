@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "changes"
+
+git remote add origin (url of repo)    
+
+git push origin main  (if main does not work then use master);
