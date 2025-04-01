@@ -1,0 +1,23 @@
+[UnityLog]
+
+(Filename: C:/buildslave/unity/build/Runtime/Export/Debug/Debug.bindings.h Line: 39)
+NullReferenceException: Object reference not set to an instance of an object
+   at PlayerController.Update () [0x00010] in C:/Projects/Game/Assets/Scripts/PlayerController.cs:22
+
+(Filename: C:/buildslave/unity/build/Runtime/Export/Debug/Debug.bindings.h Line: 39)
+IndexOutOfRangeException: Index was outside the bounds of the array.
+   at EnemyAI.Patrol () [0x00020] in C:/Projects/Game/Assets/Scripts/EnemyAI.cs:45
+
+(Filename: C:/buildslave/unity/build/Runtime/Export/Debug/Debug.bindings.h Line: 39)
+MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+   at UIManager.UpdateUI () [0x00030] in C:/Projects/Game/Assets/Scripts/UIManager.cs:30
+
+(Filename: C:/buildslave/unity/build/Runtime/Export/Debug/Debug.bindings.h Line: 39)
+ArgumentException: Input Axis Jump is not set up.
+   at InputManager.CheckInput () [0x00040] in C:/Projects/Game/Assets/Scripts/InputManager.cs:18
+
+(Filename: C:/buildslave/unity/build/Runtime/Export/Debug/Debug.bindings.h Line: 39)
+Shader error in 'Custom/WaterShader': undeclared identifier 'unity_WorldToObject' at line 62 (on d3d11)
+
+(Filename: C:/buildslave/unity/build/Runtime/Export/Debug/Debug.bindings.h Line: 39)
+Assets/Scripts/PlayerController.cs(34,17): error CS1026: ) expected
